@@ -12,7 +12,7 @@ timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.natazevedo.com.br
+url: http://www.natazevedo.com.br/blog
 root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
