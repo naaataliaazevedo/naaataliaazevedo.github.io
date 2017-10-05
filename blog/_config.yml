@@ -79,4 +79,4 @@ theme: nuna
 deploy: 
   type: git
   repository: https://github.com/naaataliaazevedo/naaataliaazevedo.github.io.git
-  branch: master
+  branch: 
