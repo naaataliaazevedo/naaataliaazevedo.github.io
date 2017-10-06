@@ -12,20 +12,25 @@ body {
 img {
   border: none;
 }
+
 a {
   text-decoration: none;
   color: #000;
 }
+  a:hover {
+    color: #BA55D3;
+  }
+
 hr {
   background-color: #898989;
   height: 1px;
   border: none;
 }
-svg path {
-  fill: #ec007a;
-}
+
 .main {
   width: 100%;
   margin: 0 auto;
   max-width: 1024px;
 }
+
+/*#BA55D3 rosa quase roxo*/
