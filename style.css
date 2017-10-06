@@ -4,11 +4,17 @@ html {
   font-size: 1em;
   font-family: 'Open Sans', sans-serif;
 }
+
 body {
   width: 100%;
   float: left;
   margin: 0;
 }
+
+.title {
+  color: #BA55D3;
+}
+
 img {
   border: none;
 }
