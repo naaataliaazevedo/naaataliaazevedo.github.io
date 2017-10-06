@@ -9,21 +9,23 @@ body {
   float: left;
   margin: 0;
 }
-
 img {
   border: none;
 }
-
 a {
   text-decoration: none;
+  color: #fff;
 }
-
-.container {
+hr {
+  background-color: #898989;
+  height: 1px;
+  border: none;
+}
+svg path {
+  fill: #ec007a;
+}
+.main {
   width: 100%;
-  max-width: 1024px;
   margin: 0 auto;
-}
-
-h1 {
-  color: red;
+  max-width: 1024px;
 }
