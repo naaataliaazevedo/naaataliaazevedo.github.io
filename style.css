@@ -2,7 +2,8 @@ html {
   width: 100%;
   float: left;
   font-size: 1em;
-  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: 'Montserrat', sans-serif;
 }
 
 body {
